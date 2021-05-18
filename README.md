@@ -3,6 +3,7 @@
 - 🌱 I’m currently pursuing my bachelors in CSE from Indian Institute of Technology of Kanpur 
 - 💞️ I’m looking to collaborate on any project which may interest me
 - 📫 You can reach me through my mail- mmanasggupta@gmail.com
+- Also I am new to  programming and coding but I sure love to indulge in techy stuffs
 
 <!---
 ManasGupta1310/ManasGupta1310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
