@@ -4,16 +4,14 @@
 - 💞️ I’m looking to collaborate on any project which may interest me
 - 📫 You can reach me through my mail- mmanasggupta@gmail.com
 - Also I am new to  programming and coding but I sure love to indulge in techy stuffs
+<div>
 <table>
-  <th>
-    <tr>
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ManasGupta1310&count_private=true&theme=tokyonight&showicons=true)]()
-    </tr>
-    <tr>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ManasGupta1310&langs_count=5&theme=tokyonight)]()
-    </tr>
-  </th>
+  <tr>
+    <th><img src="https://github-readme-stats.vercel.app/api?username=ManasGupta1310&show_icons=true&hide_border=true&border_radius=0&count_private=true&theme=radical" /></th>
+    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasGupta1310&layout=compact&langs_count=100&hide_border=true&border_radius=0&card_width=450&theme=radical" /></th>
+  </tr>
 </table>
+</div>
   
 
 <!---
