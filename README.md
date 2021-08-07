@@ -19,3 +19,10 @@ ManasGupta1310/ManasGupta1310 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
+<table class="center">
+  <tr>
+    <td><a href="https://www.facebook.com/manas.furiousboy"><img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png" width=50></a></td>
+    <td><a href="https://www.instagram.com/__manasgupta__/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-512.png" width=50></td>
+    <td><a href="https://www.linkedin.com/in/manas-gupta-113b921b9/"><img src="https://cdn2.iconfinder.com/data/icons/social-18/512/LinkedIn-512.png" width=50></td>
+  </tr>
+</table>
