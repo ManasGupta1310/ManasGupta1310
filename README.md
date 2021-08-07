@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on any project which may interest me
 - 📫 You can reach me through my mail- mmanasggupta@gmail.com
 - Also I am new to  programming and coding but I sure love to indulge in techy stuffs
+
+- Currently I am exploring the domain of <i><b>Data Science</b></i> and <i><b>Machine Learning</b></i>
+
 <div>
 <table>
   <tr>
