@@ -1,11 +1,13 @@
 - 👋 Hi, I’m Manas
 - 👀 I’m interested in programming and love to code
-- 🌱 I’m currently pursuing my bachelors in CSE from Indian Institute of Technology of Kanpur 
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/834d0604-8d10-4d33-b9db-3d21a21b20e8" /> I am currently working at Microsoft as a Software Engineer in Auth team for Office Android Apps.
+
+- 🌱 I’m completed my bachelors in CSE from Indian Institute of Technology of Kanpur 
 - 💞️ I’m looking to collaborate on any project which may interest me
 - 📫 You can reach me through my mail- mmanasggupta@gmail.com
-- Also I am new to  programming and coding but I sure love to indulge in techy stuffs
+- 💬 I love to have discussions over any recent topics I might be familiar with or would love to gain knowledge over any new topic.
 
-- Currently I am exploring the domain of <i><b>Data Science</b></i> and <i><b>Machine Learning</b></i>
+- Currently I am exploring the domain of <i><b>Artifical Intelligence</b></i> and <i><b>Agentic Workflows</b></i>
 
 <div>
 <table>
