@@ -45,14 +45,6 @@
 
 </div>
 
-### 🗓️ Contribution Heatmap
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/f75c7e/ManasGupta1310" alt="Contribution Heatmap" width="100%" />
-
-</div>
-
 ## 🌐 Connect
 
 <div align="center">
