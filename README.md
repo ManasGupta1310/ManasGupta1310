@@ -1,33 +1,66 @@
-- 👋 Hi, I’m Manas
-- 👀 I’m interested in programming and love to code
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/834d0604-8d10-4d33-b9db-3d21a21b20e8" /> I am currently working at Microsoft as a Software Engineer in Auth team for Office Android Apps.
+<div align="center">
 
-- 🌱 I’m completed my bachelors in CSE from Indian Institute of Technology of Kanpur 
-- 💞️ I’m looking to collaborate on any project which may interest me
-- 📫 You can reach me through my mail- mmanasggupta@gmail.com
-- 💬 I love to have discussions over any recent topics I might be familiar with or would love to gain knowledge over any new topic.
+<img src="./banner.svg" width="100%" alt="Manas Gupta banner" />
 
-- Currently I am exploring the domain of <i><b>Artifical Intelligence</b></i> and <i><b>Agentic Workflows</b></i>
+**IIT Kanpur CSE Graduate · Competitive Programmer · Exploring AI & Agentic Workflows**
 
-<div>
-<table>
-  <tr>
-    <th><img src="https://github-readme-stats.vercel.app/api?username=ManasGupta1310&show_icons=true&hide_border=true&border_radius=0&count_private=true&theme=radical" /></th>
-    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasGupta1310&layout=compact&langs_count=100&hide_border=true&border_radius=0&card_width=450&theme=radical" /></th>
-  </tr>
-</table>
+![Profile Views](https://komarev.com/ghpvc/?username=ManasGupta1310&label=Profile%20Views&color=ff4d6d&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/ManasGupta1310?label=Followers&style=for-the-badge&logo=github&color=7b2ff7)
+
 </div>
-  
 
-<!---
-ManasGupta1310/ManasGupta1310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👨‍💻 About
 
-<table class="center">
-  <tr>
-    <td><a href="https://www.facebook.com/manas.furiousboy"><img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png" width=50></a></td>
-    <td><a href="https://www.instagram.com/__manasgupta__/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-512.png" width=50></td>
-    <td><a href="https://www.linkedin.com/in/manas-gupta-113b921b9/"><img src="https://cdn2.iconfinder.com/data/icons/social-18/512/LinkedIn-512.png" width=50></td>
-  </tr>
-</table>
+- 🔭 Building **authentication & identity** for Office Android apps at **Microsoft**
+- 🧠 Codeforces: **macroger** · big on DSA and system design
+- 🤖 Currently exploring **AI, RAG & agentic workflows**
+- 💬 Always up for a good tech discussion or a collab
+
+## 🛠️ Stack
+
+<div align="center">
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+## 📊 Stats
+
+<div align="center">
+
+<img src="./profile-summary-card-output/radical/3-stats.svg" width="49%" alt="GitHub Stats" />
+<img src="./profile-summary-card-output/radical/4-productive-time.svg" width="49%" alt="Productive Time" />
+
+<img src="./profile-summary-card-output/radical/1-repos-per-language.svg" width="49%" alt="Repos per Language" />
+<img src="./profile-summary-card-output/radical/2-most-commit-language.svg" width="49%" alt="Most Commit Language" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ManasGupta1310&theme=radical&hide_border=true&border_radius=12" alt="GitHub Streak" />
+
+</div>
+
+### 🗓️ Contribution Heatmap
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/f75c7e/ManasGupta1310" alt="Contribution Heatmap" width="100%" />
+
+</div>
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="https://manas-gupta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/manasg20"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://codeforces.com/profile/macroger"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+<a href="mailto:mmanasggupta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.instagram.com/__manasgupta__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+</div>
